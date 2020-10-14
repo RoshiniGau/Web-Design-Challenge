@@ -15,7 +15,7 @@ https://github.com/RoshiniGau/Web-Design-Challenge/blob/main/index.html
 
 2. Visualization page 
 
-*  Cloudiness.html : hhttps://github.com/RoshiniGau/Web-Design-Challenge/blob/main/cloudiness.html
+*  Cloudiness.html : https://github.com/RoshiniGau/Web-Design-Challenge/blob/main/cloudiness.html
 *  Humidity.html : https://github.com/RoshiniGau/Web-Design-Challenge/blob/main/humidity.html
 *  MaxTemperature.html : https://github.com/RoshiniGau/Web-Design-Challenge/blob/main/maxtemperature.html
 *  Windspeed.html : https://github.com/RoshiniGau/Web-Design-Challenge/blob/main/windspeed.html
