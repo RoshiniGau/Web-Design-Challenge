@@ -23,12 +23,6 @@ body {
     margin-left: 5%;
   }
   
-  .navbar-collapse {
-    position: absolute;
-    right: 5%;
-    font-size: small;
-  }
-  
   .nav-item {
     font-weight: bold;
   }
@@ -101,8 +95,10 @@ body {
     border-width: 50px;
   }
   
-  @include media-breakpoint-down(md) {
-    .col-md-8 {
-      display: block;
+  @media screen and (max-width: 600px) {
+    .topnav.responsive {position: relative;}
+    .topnav.responsive a.icon {
+      position: absolute;
+      right: 0;
+      top: 0;
     }
-  }
