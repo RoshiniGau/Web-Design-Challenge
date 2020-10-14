@@ -6,3 +6,24 @@ In building this dashboard, we'll create individual pages for each plot and a me
 
 For building this website we have used HTML,CSS and Bootstrap.You can see the visualization by clicking on this link.
 https://roshinigau.github.io/Web-Design-Challenge/
+
+The website consists of 7 pages total 
+
+1. Landing page 
+
+https://github.com/RoshiniGau/Web-Design-Challenge/blob/main/index.html
+
+2. Visualization page 
+
+*  Cloudiness.html : https://github.com/RoshiniGau/Web-Design-Challenge/blob/main/visualizations/cloudiness.html
+*  Humidity.html : https://github.com/RoshiniGau/Web-Design-Challenge/blob/main/visualizations/humidity.html
+*  MaxTemperature.html : https://github.com/RoshiniGau/Web-Design-Challenge/blob/main/visualizations/maxtemperature.html
+*  Windspeed.html : https://github.com/RoshiniGau/Web-Design-Challenge/blob/main/visualizations/windspeed.html
+
+3. Comparisons page
+
+https://github.com/RoshiniGau/Web-Design-Challenge/blob/main/comparisonpage.html
+
+4. Data page
+
+https://github.com/RoshiniGau/Web-Design-Challenge/blob/main/datapage.html
